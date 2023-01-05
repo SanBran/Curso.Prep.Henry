@@ -1,3 +1,9 @@
+body{
+    background-image: url("https://ctl.s6img.com/society6/img/ApVlRE-woz5vx5f8LwkciwMk9jo/w_1500/posters/top/~artwork,fw_2718,fh_3618,fx_-676,iw_4069,ih_3618/s6-original-art-uploads/society6/uploads/misc/90fbff7bfd3744dc9b4b1c8701870f5f/~~/shiba-smile1348661-posters.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scaleX();
+}
 h1{
     color: darkred;
 }
@@ -5,6 +11,7 @@ img{
     width: 400px;
 }
 #thirdDiv{
+    margin: auto;
     height: 600px;
     width: 500px;
     color: darkgreen;
@@ -14,4 +21,7 @@ img{
 #spanId{
     font-size: 18px;
     margin: 50px;
+}
+.divClass{
+    text-align: center;
 }
